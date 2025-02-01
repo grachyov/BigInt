@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
                       BigInt is a Swift package for performing arbitrary-precision arithmetic.
                      DESC
     s.homepage     = "https://github.com/grachyov/BigInt"
-    s.license      = { :type => 'MIT', :file => 'LICENSE' }
+    s.license      = { :type => 'MIT', :file => 'LICENSE.md' }
     s.authors      = { "attaswift" => "attaswift@attaswift.org", "ivan" => "ivan@lil.org" }
   
     s.source       = { :git => "https://github.com/grachyov/BigInt.git", :tag => s.version.to_s }
