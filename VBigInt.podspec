@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name         = "BigInt"
+    s.name         = "VBigInt"
     s.version      = "1.0.0"
     s.summary      = "Arbitrary-precision arithmetic library in Swift"
     s.description  = <<-DESC
