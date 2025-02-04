@@ -8,6 +8,7 @@ Pod::Spec.new do |s|
     s.homepage     = "https://github.com/grachyov/BigInt"
     s.license      = { :type => 'MIT', :file => 'LICENSE.md' }
     s.authors      = { "attaswift" => "attaswift@attaswift.org", "ivan" => "ivan@lil.org" }
+    s.module_name  = 'BigInt'
   
     s.source       = { :git => "https://github.com/grachyov/BigInt.git", :tag => s.version.to_s }
   
